@@ -6,7 +6,7 @@ Timed relations and activities requiring input are not supported either, it is m
 
 How the project works:
 
-1. Looks for any .csv files within a certain depth of folders (current 3 folders up) meaning you can place it in the main directory and still run it through visual studio where it will be fetched from the .exe that gets generated in bin/Debug
+1. Looks for any .csv files within a certain depth of folders (current 4 folders up) meaning you can place it in the main directory and still run it through visual studio where it will be fetched from the .exe that gets generated in bin/Debug
 2. Ask for credentials, these are your credentials for dcrgraph.net, only graphs you have access to or are public can be fetched
 3. Ask for ID(-s) of the graphs to run over the found .csv files
 4. Shows progress as it runs through each track, currently the columns for the .csv file are defined as:
