@@ -1,0 +1,10 @@
+[2019/12/ 7 : 12-31-54- 601] Log: Finding all csv's within a depth of 3
+[2019/12/ 7 : 12-31-54- 638] 
+Error (FindCSVs, 32): No csv files found
+
+[2019/12/ 7 : 12-32- 9-  15] Log: Finding all csv's within a depth of 3
+[2019/12/ 7 : 12-32- 9-  51] 
+Error (FindCSVs, 32): No csv files found
+
+[2019/12/ 7 : 12-32-34- 242] Log: Finding all csv's within a depth of 4
+[2019/12/ 7 : 12-32-34- 276] Log: Found csv: log.csv

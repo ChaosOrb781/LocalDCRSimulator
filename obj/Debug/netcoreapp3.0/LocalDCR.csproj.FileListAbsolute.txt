@@ -1,0 +1,11 @@
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\obj\Debug\netcoreapp3.0\LocalDCR.csprojAssemblyReference.cache
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\obj\Debug\netcoreapp3.0\LocalDCR.AssemblyInfoInputs.cache
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\obj\Debug\netcoreapp3.0\LocalDCR.AssemblyInfo.cs
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\bin\Debug\netcoreapp3.0\LocalDCR.exe
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\bin\Debug\netcoreapp3.0\LocalDCR.deps.json
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\bin\Debug\netcoreapp3.0\LocalDCR.runtimeconfig.json
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\bin\Debug\netcoreapp3.0\LocalDCR.runtimeconfig.dev.json
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\bin\Debug\netcoreapp3.0\LocalDCR.dll
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\bin\Debug\netcoreapp3.0\LocalDCR.pdb
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\obj\Debug\netcoreapp3.0\LocalDCR.dll
+C:\Users\chaos\Google Drev\UNIVERSITET - Datalogi\Reactive and Event Based Systems\LocalDCR\obj\Debug\netcoreapp3.0\LocalDCR.pdb
